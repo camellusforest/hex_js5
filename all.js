@@ -1,3 +1,4 @@
+//本作業有參考範例程式碼
 import zh from "./zh_TW.js";
 
 //自定義設定檔案，錯誤的className
